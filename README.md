@@ -7,7 +7,9 @@
 2. 建立一个门户小站，链接这些技术博客
 3. 增加推荐排名功能
 4. 应该有推荐提交的功能
-
+## 知名博客
+* http://www.ruanyifeng.com/blog/
+* http://www.zhangxinxu.com
 ## 网站列表 *（来自[hexo](https://hexo.io/themes/)）*
 
 * https://shuirong.github.io/
@@ -113,4 +115,5 @@
 * http://blog.geekaholic.cn/
 * http://smile-leaf-language.github.io/
 * http://dev.zzoman.com/"
-* (有一片找工作的干货)[https://billmei.net/]
+# 博海拾贝
+* [有一篇关于找工作的干货](https://billmei.net/)
