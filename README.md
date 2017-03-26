@@ -118,3 +118,4 @@
 # 博海拾贝
 * [有一篇关于找工作的干货](https://billmei.net/)
 * http://blog.moyuyc.xyz/(BEFE小哥)
+* http://kamranahmed.info/（写过github流行项目的谷歌浏览器插件）
