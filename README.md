@@ -122,3 +122,7 @@
     （写过github流行项目的谷歌浏览器插件）
 * http://janhuenermann.com/
     自动驾驶小车（deeplearning）
+* http://www.haorooms.com
+    （可以看看）
+* https://www.fedte.cc/
+    （一些效果）
