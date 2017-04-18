@@ -127,4 +127,6 @@
 * https://www.fedte.cc/
     （一些效果）
 * https://taylantatli.github.io/Moon/
-    （颜值高）
+    （颜值高）
+* https://ramon.codes/
+    （简约的单页博客）
