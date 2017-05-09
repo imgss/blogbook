@@ -130,3 +130,5 @@
     （颜值高）
 * https://ramon.codes/
     （简约的单页博客）
+* http://jerryzou.com/
+    (有深度的深拷贝文章)
