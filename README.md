@@ -1,23 +1,22 @@
 # blogbook
-有特色的个人技术博客汇总集
-
-## todo:
-
-1. 收集有特色的，或者设计漂亮的个人技术博客
-2. 建立一个门户小站，链接这些技术博客
-3. 增加推荐排名功能
-4. 应该有推荐提交的功能
+>从一个人的博客可以发现一个人的很多
+--有特色的个人博客汇总集
+======================
 ## 知名博客
+
 * http://www.ruanyifeng.com/blog/
 * http://www.zhangxinxu.com
 
-# 博海拾贝
-* [有一篇关于找工作的干货](https://billmei.net/)
-* http://blog.moyuyc.xyz/(BEFE小哥)
+## 博海拾贝
+
+* https://billmei.net/
+    (有一篇关于找工作的干货)
+* http://blog.moyuyc.xyz/
+    (BEFE小哥)
 * http://kamranahmed.info/
     （写过github流行项目的谷歌浏览器插件）
-* http://janhuenermann.com/
-    自动驾驶小车（deeplearning）
+* http://janhuenermann.com/ 
+    自动驾驶小车（js也能写deeplearning）
 * http://www.haorooms.com
     （可以看看）
 * https://www.fedte.cc/
